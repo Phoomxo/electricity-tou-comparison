@@ -1,0 +1,8 @@
+{
+  "name": "electricity-comparison",
+  "version": "1.0.0",
+  "description": "เว็บเปรียบเทียบค่าไฟฟ้า TOU vs ปกติ",
+  "scripts": {
+    "start": "echo 'Static HTML site'"
+  }
+}
